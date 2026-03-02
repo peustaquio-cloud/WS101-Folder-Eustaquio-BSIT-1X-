@@ -1,2 +1,2 @@
-# WS101-Folder-Eustaquio-BSIT-1X-
+# Lab1_[EustaquioPrinceCholo]
 A folder for my WS101 Lab Activities
